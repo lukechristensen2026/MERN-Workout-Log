@@ -1,7 +1,7 @@
 The development of this application was used as a learning experience for me.  I used the following tutorial as a guide:
 https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE
 
-As I went through the videos, I researched the applications, took notes, and gained a foundational understanding of the MERN stack development process.
+As I went through the videos, I researched the applications, studied the design strategies, and gained a foundational understanding of the MERN stack development process.
 
 To run:
 1. Open the backend folder and type: npm run dev
