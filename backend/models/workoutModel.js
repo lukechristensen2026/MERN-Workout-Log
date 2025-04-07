@@ -2,6 +2,7 @@ const mongoose = require('mongoose')
 
 // creating a new schema thats a mongo schema
 // Schema holding a mongoose schema
+//
 const Schema = mongoose.Schema
 
 const workoutSchema = new Schema({
